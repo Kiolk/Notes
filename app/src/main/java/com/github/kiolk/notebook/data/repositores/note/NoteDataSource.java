@@ -13,4 +13,6 @@ public interface NoteDataSource {
     void deleteNote(long id);
 
     List<Note> getAllNotes();
+
+    List<Note>getNotes(String search);
 }

@@ -58,4 +58,10 @@ public class LocalNoteSource implements NoteDataSource {
 
         return notes;
     }
+
+    @Override
+    public List<Note> getNotes(String search) {
+        //TODO need implement
+        return null;
+    }
 }

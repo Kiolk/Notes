@@ -61,4 +61,6 @@ public class MainActivity extends AppCompatActivity implements NoteAdapter.NoteC
         intent.putExtra(NOTE, note);
         startActivity(intent);
     }
+
+    //TODO implement logic for handle search text change and update recycler
 }
