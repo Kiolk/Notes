@@ -23,7 +23,7 @@
               "id": 2,
               "name": "Sound name",
               "url": "url_to_sound",
-              "descrition": "Sound descrition",
+              "description": "Sound descrition",
               "author": "Ivan Petrov",
               "priority": 2
             },
@@ -31,7 +31,7 @@
               "id": 1,
               "name": "Sound name",
               "url": "url_to_sound",
-              "descrition": "Sound descrition",
+              "description": "Sound descrition",
               "author": "Ivan Petrov",
               "priority": 1
             }
@@ -85,7 +85,7 @@
               "id": 2,
               "name": "Sound name",
               "url": "url_to_sound",
-              "descrition": "Sound descrition",
+              "description": "Sound descrition",
               "author": "Ivan Petrov",
               "priority": 2
             },
@@ -93,7 +93,7 @@
               "id": 1,
               "name": "Sound name",
               "url": "url_to_sound",
-              "descrition": "Sound descrition",
+              "description": "Sound descrition",
               "author": "Ivan Petrov",
               "priority": 1
             }
