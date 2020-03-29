@@ -4,15 +4,15 @@
       "id": 1,
       "name": "Hrodna XX",
       "description": "Some description for excirsion",
-      "creation": "233",
-      "modify": "32423",
+      "creation": "3920-10-29T12:30:50.000Z",
+      "modify": "3920-10-29T12:30:50.000Z",
       "points": [
         {
           "id": 1,
           "name": "Some point",
           "description": "Point descrition",
-          "creation": "",
-          "modify": "",
+          "creation": "3920-10-29T12:30:50.000Z",
+          "modify": "3920-10-29T12:30:50.000Z",
           "image": {
             "id": 1,
             "url": "url_to_image",
